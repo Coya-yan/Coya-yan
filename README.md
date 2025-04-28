@@ -18,6 +18,30 @@
 
 ---
 
+## 📈 GitHub Stats 统计数据
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Coya-yan&show_icons=true&theme=swift&hide_title=false&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔥 Streak Stats 连续贡献天数
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coya-yan&theme=swift" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Top Languages 主要语言占比
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coya-yan&layout=compact&theme=swift" alt="Top Languages" />
+</p>
+
+---
+
 <!--
 **Coya-yan/Coya-yan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
