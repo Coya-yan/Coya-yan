@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a client-side developer passionate about building smooth and delightful user experiences.  
+
+I work with iOS (Swift/Objective-C), Flutter, and front-end frameworks like Vue.js and React.  
+
+I enjoy crafting clean, efficient, and maintainable code across different platforms.  
+
+---
+
 <!--
 **Coya-yan/Coya-yan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
