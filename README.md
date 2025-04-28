@@ -6,7 +6,7 @@
   
 - 🤔 I enjoy crafting clean, efficient, and maintainable code across different platforms.
   
-- ⚡ Fun fact: Recently, I’m passionate about exploring game development!  
+- ⚡ Fun fact: Recently, I enjoy going on road trips and exploring new places!    
   
 - 📫 How to reach me: [2803152091@qq.com]
 
