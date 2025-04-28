@@ -1,12 +1,12 @@
 ### Hi there 👋
    
-- 🔭 I’m currently working on iOS, Flutter, and front-end (Vue & React) projects.
+- 🔭 I’m currently working on iOS, Unity, Flutter, and front-end (Vue & React) projects.
   
 - 🌱 I’m currently learning AI-related technologies and exploring how to integrate them into apps.
   
 - 🤔 I enjoy crafting clean, efficient, and maintainable code across different platforms.
   
-- 💬 Ask me about mobile app development, Flutter architecture, or front-end best practices.
+- ⚡ Fun fact: Recently, I’m passionate about exploring game development!  
   
 - 📫 How to reach me: [2803152091@qq.com]
 
