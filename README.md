@@ -1,14 +1,10 @@
 ### Hi there 👋
-
-- I'm a client-side developer passionate about building smooth and delightful user experiences.  
-
-- I work with iOS (Swift/Objective-C), Flutter, and front-end frameworks like Vue.js and React.  
-
-- I enjoy crafting clean, efficient, and maintainable code across different platforms.
-
+   
 - 🔭 I’m currently working on iOS, Flutter, and front-end (Vue & React) projects.
   
 - 🌱 I’m currently learning AI-related technologies and exploring how to integrate them into apps.
+  
+- 🤔 I enjoy crafting clean, efficient, and maintainable code across different platforms.
   
 - 💬 Ask me about mobile app development, Flutter architecture, or front-end best practices.
   
