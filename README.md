@@ -8,7 +8,6 @@
   
 - ⚡ Fun fact: Recently, I enjoy going on road trips and exploring new places!    
   
-- 📫 How to reach me: [2803152091@qq.com]
 
 ---
 
